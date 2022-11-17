@@ -30,6 +30,9 @@ jobs:
     steps:
       - name: Setup Node.js environment
         uses: actions/setup-node@v3.5.1
+        with:
+          check-latest: true
+          cache: npm
       - run: |
          npm install
          npm audit fix
