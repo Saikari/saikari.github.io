@@ -24,12 +24,7 @@ jobs:
         always-auth: true
         node-version: 18.12.1
         check-latest: true
-    
-    - run: |
-       npm install
-       npm audit fix
-       npm run build
-       npm run dev
+
        
     - name: Node to GH
       uses: FdelMazo/node-to-gh-action@v1
