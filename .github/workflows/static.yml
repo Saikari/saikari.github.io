@@ -24,6 +24,9 @@ jobs:
         always-auth: true
         node-version: 18.12.1
         check-latest: true
+    
+    - run: |
+       npm install
 
        
     - name: Node to GH
