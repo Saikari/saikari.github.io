@@ -23,11 +23,13 @@ jobs:
           node-version: 18
       - run: |
           npm install
+          npm audit fix
       - name: Install dependencies
         uses: bahmutov/npm-install@v1
 
       - name: Build project
-        run: npm run build
+        run: |
+          npm run build
 
       - name: Upload production-ready build files
         uses: actions/upload-artifact@v2
