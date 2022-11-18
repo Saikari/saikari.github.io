@@ -1,6 +1,6 @@
 <style>
     #project {
-        font-family: 'Ubuntu', sans-serif;
+        font-family: 'Rubik Glitch', sans-serif;
         position: relative;
         width: 100%;
         height: 100%;
@@ -112,7 +112,7 @@
             <img src={image} alt="inside {image}">
             <div class="indepth">
                 <span style="font-weight: normal;font-size:15px;left:5px;position:relative;">⦾ {name}</span><br>
-                <span style="font-size:13px;font-family: 'Alata', sans-serif;">{description}</span><br>
+                <span style="font-size:13px;font-family: 'Rubik Glitch', sans-serif;">{description}</span><br>
             </div>
             <div class="languages">
                 {#each languages as language}
@@ -135,5 +135,5 @@
 </script>
 
 <svelte:head>
-    <link href="https://fonts.googleapis.com/css2?family=Ubuntu&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Rubik+Glitch&display=swap" rel="stylesheet">
 </svelte:head>
