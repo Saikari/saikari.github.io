@@ -22,7 +22,7 @@
 <style>
  :root{
      background: #2a3443;
-     font-family: 'Rubik Glitch', sans-serif;
+     font-family: 'Rubik Glitch', cursive;
 
  }
 </style>
