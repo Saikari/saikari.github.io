@@ -133,7 +133,7 @@
     }
     .about{
         font-family: 'Ubuntu', sans-serif;
-        color: #642020;
+        color:#e5e5e5;
 
     }
     h2{
