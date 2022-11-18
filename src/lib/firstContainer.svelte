@@ -103,7 +103,7 @@
         position: relative;
         top:25%;
         height:50%;
-        background: rgba(125, 125, 238, 0.96);
+        background: #2a3443;
         border:0
     }
     svg{ position:relative;
