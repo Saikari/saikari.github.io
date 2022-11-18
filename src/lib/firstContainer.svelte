@@ -31,7 +31,7 @@
               style="transform:translate(0, 0px); opacity:1"></path>
     </svg>
     <div class="secondhalf" style="display:flex">
-        <section class="profile" style="width:40%;font-family: 'Alata', sans-serif;color:#e5e5e5 ;    margin-top:100px;
+        <section class="profile" style="width:40%;font-family: 'Rubik Glitch', sans-serif;color:#e5e5e5 ;    margin-top:100px;
 ">
             <img src="https://cdn.discordapp.com/avatars/994156394129403937/5cfa244d6ea4c3fa229566f069c8bed5.webp?size=1024" alt="My Discord's profile image">
             Undriven
