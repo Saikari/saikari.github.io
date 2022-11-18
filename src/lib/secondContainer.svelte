@@ -69,7 +69,7 @@
     }
 
     .skillsAndStuff {
-        font-family: 'Alata', sans-serif;
+        font-family: 'Ubuntu', sans-serif;
         color: #e5e5e5;
         font-size: 25px;
         height: 30%
