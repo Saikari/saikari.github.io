@@ -1,7 +1,10 @@
 <svelte:head>
-    <link href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@500&display=swap" rel="stylesheet">
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Rubik+Glitch&display=swap" rel="stylesheet">
     <script crossorigin="anonymous" src="https://kit.fontawesome.com/24814b69dd.js">
-        <link href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@500&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Rubik+Glitch&display=swap" rel="stylesheet">
     </script>
 </svelte:head>
 <script>
@@ -19,7 +22,7 @@
 <style>
  :root{
      background: #2a3443;
-     font-family: 'Alata', sans-serif;
+     font-family: 'Rubik Glitch', sans-serif;
 
  }
 </style>
