@@ -26,7 +26,7 @@ jobs:
         check-latest: true
     
     - run: |
-       npm install ../
+       npm install ../..
 
        
     - name: Node to GH
