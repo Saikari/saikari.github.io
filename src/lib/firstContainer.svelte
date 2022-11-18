@@ -69,7 +69,7 @@
     .firsthalf{
         margin: 50px 0 0 50px;
         color:white;
-        font-family: 'Alata', sans-serif;
+        font-family: 'Rubik Glitch', cursive;
     }
     nav div:not(:first-child){
         color:#8e96a1;
@@ -79,7 +79,7 @@
         margin-bottom:30px
     }
     .depth{
-        font-family: 'Ubuntu', sans-serif;
+        font-family: 'Rubik Glitch', cursive;
         margin-top: 100px;
         font-weight: normal;
 
