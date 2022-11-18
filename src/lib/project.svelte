@@ -1,6 +1,6 @@
 <style>
     #project {
-        font-family: 'Rubik Glitch', sans-serif;
+        font-family: 'Rubik Glitch', cursive;
         position: relative;
         width: 100%;
         height: 100%;
