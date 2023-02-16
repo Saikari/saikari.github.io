@@ -1,7 +1,7 @@
 <div class="container first active">
     <div class="firsthalf">
         <nav style="display:flex">
-            <div style="flex-grow:0.8"><i class="fa-solid fa-code"> </i>LinEvelynn</div>
+            <div style="flex-grow:0.8"><i class="fa-solid fa-code"> </i>Saikari</div>
             <div> About</div>
             <div> Skills</div>
             <div> Projects</div>
@@ -12,7 +12,7 @@
 
         <div class="depth"><span>Portfolio</span><br>
 
-            <h1>LinEvelynn</h1>
+            <h1>Saikari</h1>
 
             <div class="info"></div>
 
@@ -34,9 +34,9 @@
         <section class="profile" style="width:40%;font-family: 'Rubik Glitch', cursive;;color:#e5e5e5 ;    margin-top:100px;
 ">
             <img src="https://avatars.githubusercontent.com/u/109693307?v=4" alt="My Discord's profile image">
-            LinEvelynn
+            Saikari
             <nav class="contactsBar" style="display:flex">
-                <div><a href="https://github.com/LinEvelynn"><i class="fa-brands fa-github"></i> </a></div>
+                <div><a href="https://github.com/Saikari"><i class="fa-brands fa-github"></i> </a></div>
                 <div><a href="https://avatars.githubusercontent.com/u/109693307?v=4"><i class="fa-brands fa-discord"></i></a></div>
                 <!--<div><a href="mailto:"><i class="fa-regular fa-envelope"></i></a></div>-->
             </nav>
