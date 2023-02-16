@@ -12,7 +12,7 @@
 
         <div class="depth"><span>Portfolio</span><br>
 
-            <h1>Undriven</h1>
+            <h1LinEvelynn</h1>
 
             <div class="info"></div>
 
@@ -151,8 +151,8 @@
     window.onload = function ()
     {
         const name = document.getElementsByClassName("info")[0]
-        const text = "Programming Student"
-        const keywords = ["Programming Student"].map(e=>  [text.search(e),text.search(e)+e.length])
+        const text = "C++/Python Developer"
+        const keywords = ["C++/Python Developer"].map(e=>  [text.search(e),text.search(e)+e.length])
         let delay = 0
         for (let i=0;i<text.length;i++) {
             setTimeout(()=>{
