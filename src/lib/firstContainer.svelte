@@ -37,7 +37,7 @@
             LinEvelynn
             <nav class="contactsBar" style="display:flex">
                 <div><a href="https://github.com/LinEvelynn"><i class="fa-brands fa-github"></i> </a></div>
-                <div><a href="https://discord.com/users/994156394129403937"><i class="fa-brands fa-discord"></i></a></div>
+                <div><a href="https://avatars.githubusercontent.com/u/109693307?v=4"><i class="fa-brands fa-discord"></i></a></div>
                 <!--<div><a href="mailto:"><i class="fa-regular fa-envelope"></i></a></div>-->
             </nav>
         </section>
