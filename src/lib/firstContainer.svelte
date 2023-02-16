@@ -33,7 +33,7 @@
     <div class="secondhalf" style="display:flex">
         <section class="profile" style="width:40%;font-family: 'Rubik Glitch', cursive;;color:#e5e5e5 ;    margin-top:100px;
 ">
-            <img src="https://cdn.discordapp.com/avatars/994156394129403937/5cfa244d6ea4c3fa229566f069c8bed5.webp?size=1024" alt="My Discord's profile image">
+            <img src="https://avatars.githubusercontent.com/u/109693307?v=4" alt="My Discord's profile image">
             LinEvelynn
             <nav class="contactsBar" style="display:flex">
                 <div><a href="https://github.com/LinEvelynn"><i class="fa-brands fa-github"></i> </a></div>
