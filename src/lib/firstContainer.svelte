@@ -12,7 +12,7 @@
 
         <div class="depth"><span>Portfolio</span><br>
 
-            <h1LinEvelynn</h1>
+            <h1>LinEvelynn</h1>
 
             <div class="info"></div>
 
